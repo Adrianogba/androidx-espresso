@@ -1,0 +1,1 @@
+This is just a sample of an Espresso UI automated test on a Android using AndroidX libs
